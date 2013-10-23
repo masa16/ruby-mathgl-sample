@@ -1,0 +1,42 @@
+
+## cut.rb
+
+```ruby
+PROCS['cut'] = proc do
+  a = MathGL::MglData.new
+  c = MathGL::MglData.new
+  v = MathGL::MglData.new(1)
+  mgls_prepare2d(a)
+  mgls_prepare3d(c)
+  v.set_val(0.5,0)
+  sub_plot(2,2,0)
+  title("Cut on (default)")
+  rotate(50,60)
+  light(true)
+  box()
+  surf(a,"","zrange -1 0.5")
+  sub_plot(2,2,1)
+  title("Cut off")
+  rotate(50,60)
+  box()
+  surf(a,"","zrange -1 0.5; cut off")
+  sub_plot(2,2,2)
+  title("Cut inp box")
+  rotate(50,60)
+  set_cut_box([0,-1,-1], [1,0,1.1])
+  alpha(true)
+  box()
+  surf3(c)
+  set_cut_box([0], [0])
+  sub_plot(2,2,3)
+  title("Cut by formula")
+  rotate(50,60)
+  cut_off("(z>(x+0.5*y-1)^2-1) & (z>(x-0.5*y-1)^2-1)")
+  box()
+  surf3(c)
+  cut_off("")
+end
+
+
+```
+![image of cut.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cut/cut.png)

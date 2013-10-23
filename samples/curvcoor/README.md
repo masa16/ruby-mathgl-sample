@@ -1,0 +1,39 @@
+
+## curvcoor.rb
+
+```ruby
+PROCS['curvcoor'] = proc do
+  set_origin(-1,1,-1)
+  sub_plot(2,2,0)
+  title("Cartesian")
+  rotate(50,60)
+  fplot("2*t-1","0.5","0","r2")
+  axis()
+  grid()
+  set_func("y*sin(pi*x)","y*cos(pi*x)","")
+  sub_plot(2,2,1)
+  title("Cylindrical")
+  rotate(50,60)
+  fplot("2*t-1","0.5","0","r2")
+  axis()
+  grid()
+  set_func("2*y*x","y*y - x*x","")
+  sub_plot(2,2,2)
+  title("Parabolic")
+  rotate(50,60)
+  fplot("2*t-1","0.5","0","r2")
+  axis()
+  grid()
+  set_func("y*sin(pi*x)","y*cos(pi*x)","x+z")
+  sub_plot(2,2,3)
+  title("Spiral")
+  rotate(50,60)
+  fplot("2*t-1","0.5","0","r2")
+  axis()
+  grid()
+  set_func("","","")
+end
+
+
+```
+![image of curvcoor.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/curvcoor/curvcoor.png)

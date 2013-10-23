@@ -1,0 +1,252 @@
+newmtl Material
+Ka 0.0 0.0 0.0
+Kd 1.0 1.0 1.0
+Ks 0.0 0.0 0.0
+d 1.0
+illum 2
+map_Kd fexport_txt.png
+newmtl Material0
+Ka 0.1 0.1 0.1
+Kd 0 0 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material1
+Ka 0.1 0.1 0.1
+Kd 0 0.5 0.25
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material2
+Ka 0.1 0.1 0.1
+Kd 0.25 0.5 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material3
+Ka 0.1 0.1 0.1
+Kd 1 1 1
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material4
+Ka 0.1 0.1 0.1
+Kd 0 0.25 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material5
+Ka 0.1 0.1 0.1
+Kd 0.25 0 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material6
+Ka 0.1 0.1 0.1
+Kd 0.5 0.25 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material7
+Ka 0.1 0.1 0.1
+Kd 0 1 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material8
+Ka 0.1 0.1 0.1
+Kd 0.5 1 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material9
+Ka 0.1 0.1 0.1
+Kd 0 0.5 1
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material10
+Ka 0.1 0.1 0.1
+Kd 0.5 0 1
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material11
+Ka 0.1 0.1 0.1
+Kd 1 0.5 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material12
+Ka 0.1 0.1 0.1
+Kd 0 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material13
+Ka 0.1 0.1 0.1
+Kd 0.5 0 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material14
+Ka 0.1 0.1 0.1
+Kd 0.5 0.5 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material15
+Ka 0.1 0.1 0.1
+Kd 0.5 0 0.25
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material16
+Ka 0.1 0.1 0.1
+Kd 0 1 1
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material17
+Ka 0.1 0.1 0.1
+Kd 1 0 1
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material18
+Ka 0.1 0.1 0.1
+Kd 1 1 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material19
+Ka 0.1 0.1 0.1
+Kd 1 0 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material20
+Ka 0.1 0.1 0.1
+Kd 0 0 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material21
+Ka 0.1 0.1 0.1
+Kd 0 0.5 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material22
+Ka 0.1 0.1 0.1
+Kd 0.5 0 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material23
+Ka 0.1 0.1 0.1
+Kd 0.3 0.3 0.3
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material24
+Ka 0.1 0.1 0.1
+Kd 0.7 0.7 0.7
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material25
+Ka 0.1 0.1 0.1
+Kd 0 0 1
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material26
+Ka 0.1 0.1 0.1
+Kd 0 1 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material27
+Ka 0.1 0.1 0.1
+Kd 1 0 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material28
+Ka 0.1 0.1 0.1
+Kd 0.5 0.5 0.5
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material29
+Ka 0.1 0.1 0.1
+Kd 0.2 0 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material30
+Ka 0.1 0.1 0.1
+Kd 0.6 0 0
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material31
+Ka 0.1 0.1 0.1
+Kd 1 0.4 0.4
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material32
+Ka 0.1 0.1 0.1
+Kd 1 0.8 0.8
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material33
+Ka 0.1 0.1 0.1
+Kd 1 0.6 0.4
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
+newmtl Material34
+Ka 0.1 0.1 0.1
+Kd 0.513726 0.792157 1
+Ks 0.0 0.0 0.0
+d 1
+illum 2
+Ns 15.0
