@@ -27,7 +27,5 @@ PROCS['qo2d'] = proc do
   puts([0, 0.85], "absorption: (x+y)/2 for x+y>0")
   puts([0.7, -0.05], "central ray")
 end
-
-
 ```
 ![image of qo2d.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/qo2d/qo2d.png)

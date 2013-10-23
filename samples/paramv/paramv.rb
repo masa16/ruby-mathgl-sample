@@ -57,4 +57,3 @@ PROCS['paramv'] = proc do
   box()
   pipe(x,y,z,ex,ey,ez)
 end
-

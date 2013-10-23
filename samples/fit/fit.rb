@@ -20,4 +20,3 @@ PROCS['fit'] = proc do
   puts_fit([0, -1.8], "y = ", "r")
   puts([0, 2.2], "initial: y = 0.3+sin(2\\pi x)", "b")
 end
-

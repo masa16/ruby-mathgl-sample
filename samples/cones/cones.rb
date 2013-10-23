@@ -30,4 +30,3 @@ PROCS['cones'] = proc do
   box()
   cones(ys,"a")
 end
-

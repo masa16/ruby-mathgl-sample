@@ -14,4 +14,3 @@ PROCS['contfa'] = proc do
   cont3(c,"k")
   cont3(c,"kz")
 end
-

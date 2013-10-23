@@ -8,4 +8,3 @@ PROCS['fall'] = proc do
   box()
   fall(a)
 end
-

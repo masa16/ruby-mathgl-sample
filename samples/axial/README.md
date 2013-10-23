@@ -33,7 +33,5 @@ PROCS['axial'] = proc do
   box()
   axial(a,"#")
 end
-
-
 ```
 ![image of axial.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/axial/axial.png)

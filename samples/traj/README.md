@@ -16,7 +16,5 @@ PROCS['traj'] = proc do
   plot(x,y)
   traj(x,y,y1,y2)
 end
-
-
 ```
 ![image of traj.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/traj/traj.png)

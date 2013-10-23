@@ -60,7 +60,5 @@ PROCS['param1'] = proc do
   box()
   label(x,y,z,"%z")
 end
-
-
 ```
 ![image of param1.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/param1/param1.png)

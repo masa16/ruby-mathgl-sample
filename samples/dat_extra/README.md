@@ -56,7 +56,5 @@ PROCS['dat_extra'] = proc do
   plot(x1,v1,"r-")
   label(x0,v0,"%n")
 end
-
-
 ```
 ![image of dat_extra.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dat_extra/dat_extra.png)

@@ -16,4 +16,3 @@ PROCS['map'] = proc do
   box()
   map(a, b, "brgk")
 end
-

@@ -62,4 +62,3 @@ PROCS['schemes'] = proc do
   dens(a,"b{g,0.3}r")
   puts(0.57, 0.02, "'b\\{g,0.3\\}r'", "A")
 end
-

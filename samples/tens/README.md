@@ -31,7 +31,5 @@ PROCS['tens'] = proc do
   xc.modify("cos(pi*2*x-pi)")
   tens(xc,yc,z,z,"s")
 end
-
-
 ```
 ![image of tens.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tens/tens.png)

@@ -32,7 +32,5 @@ PROCS['ticks'] = proc do
   set_ticks_time('x',0)
   axis()
 end
-
-
 ```
 ![image of ticks.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/ticks/ticks.png)

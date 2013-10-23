@@ -32,4 +32,3 @@ PROCS['chart'] = proc do
   box()
   chart(ch,"bgr cmy#")
 end
-

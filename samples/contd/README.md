@@ -39,7 +39,5 @@ PROCS['contd'] = proc do
   box()
   cont_d(a1)
 end
-
-
 ```
 ![image of contd.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contd/contd.png)

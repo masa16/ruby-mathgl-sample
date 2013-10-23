@@ -21,7 +21,5 @@ PROCS['dots'] = proc do
   box()
   dots(x,y,z)
 end
-
-
 ```
 ![image of dots.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dots/dots.png)

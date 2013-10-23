@@ -26,7 +26,5 @@ PROCS['type0'] = proc do
   axial(a)
   box()
 end
-
-
 ```
 ![image of type0.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/type0/type0.png)

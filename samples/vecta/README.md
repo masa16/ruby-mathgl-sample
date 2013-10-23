@@ -34,7 +34,5 @@ PROCS['vecta'] = proc do
   grid3(ex,"W")
   grid3(ex,"Wz")
 end
-
-
 ```
 ![image of vecta.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/vecta/vecta.png)

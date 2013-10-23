@@ -29,4 +29,3 @@ PROCS['text'] = proc do
   line([-1,-1],[-1,1],"rA")
   puts([-1,0],[-1,1],"Vertical")
 end
-

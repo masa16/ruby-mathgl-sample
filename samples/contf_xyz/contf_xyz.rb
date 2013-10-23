@@ -10,4 +10,3 @@ PROCS['contf_xyz'] = proc do
   cont_fy(c.sum("y"),"",1)
   cont_fz(c.sum("z"),"",-1)
 end
-

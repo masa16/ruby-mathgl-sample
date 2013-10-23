@@ -38,7 +38,5 @@ PROCS['tube'] = proc do
   box()
   tube(xc,yc,z,y2,"r")
 end
-
-
 ```
 ![image of tube.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tube/tube.png)

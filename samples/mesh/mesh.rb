@@ -8,4 +8,3 @@ PROCS['mesh'] = proc do
   box()
   mesh(a)
 end
-

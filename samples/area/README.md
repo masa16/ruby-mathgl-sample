@@ -37,7 +37,5 @@ PROCS['area'] = proc do
   yc.modify("-sin(pi*(2*x-1))")
   area(xc,yc,z,"b#")
 end
-
-
 ```
 ![image of area.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/area/area.png)

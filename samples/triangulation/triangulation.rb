@@ -18,4 +18,3 @@ PROCS['triangulation'] = proc do
   data_grid(g,x,y,z)
   mesh(g,"m")
 end
-

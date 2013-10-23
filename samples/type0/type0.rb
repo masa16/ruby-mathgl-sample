@@ -22,4 +22,3 @@ PROCS['type0'] = proc do
   axial(a)
   box()
 end
-

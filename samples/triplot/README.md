@@ -42,7 +42,5 @@ PROCS['triplot'] = proc do
   tri_plot(tt,uu,vv,ww,"k#")
   tri_cont(tt,uu,vv,ww,"B")
 end
-
-
 ```
 ![image of triplot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/triplot/triplot.png)

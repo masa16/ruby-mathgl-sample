@@ -245,7 +245,5 @@ PROCS['fexport'] = proc do
   write_obj("fexport.obj")
   write_prc("fexport.prc")
 end
-
-
 ```
 ![image of fexport.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fexport/fexport.png)

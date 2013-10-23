@@ -12,4 +12,3 @@ PROCS['traj'] = proc do
   plot(x,y)
   traj(x,y,y1,y2)
 end
-

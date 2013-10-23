@@ -12,7 +12,5 @@ PROCS['mesh'] = proc do
   box()
   mesh(a)
 end
-
-
 ```
 ![image of mesh.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/mesh/mesh.png)

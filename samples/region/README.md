@@ -38,7 +38,5 @@ PROCS['region'] = proc do
   plot(y1,"k2")
   plot(y2,"k2")
 end
-
-
 ```
 ![image of region.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/region/region.png)

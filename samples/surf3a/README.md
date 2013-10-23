@@ -15,7 +15,5 @@ PROCS['surf3a'] = proc do
   box()
   surf_3a(c,d)
 end
-
-
 ```
 ![image of surf3a.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surf3a/surf3a.png)

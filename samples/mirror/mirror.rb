@@ -34,4 +34,3 @@ PROCS['mirror'] = proc do
   axis()
   legend(2,"")
 end
-

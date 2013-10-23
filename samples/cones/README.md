@@ -34,7 +34,5 @@ PROCS['cones'] = proc do
   box()
   cones(ys,"a")
 end
-
-
 ```
 ![image of cones.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cones/cones.png)

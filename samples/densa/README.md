@@ -18,7 +18,5 @@ PROCS['densa'] = proc do
   dens3(c)
   dens3(c,"z")
 end
-
-
 ```
 ![image of densa.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/densa/densa.png)

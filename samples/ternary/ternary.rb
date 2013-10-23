@@ -65,4 +65,3 @@ PROCS['ternary'] = proc do
   label('y',"C",1)
   label('z',"Z",1)
 end
-

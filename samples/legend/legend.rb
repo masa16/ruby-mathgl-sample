@@ -29,4 +29,3 @@ PROCS['legend'] = proc do
   legend(1,"#-")
   puts([0.75,0.25],"Horizontal legend","a")
 end
-

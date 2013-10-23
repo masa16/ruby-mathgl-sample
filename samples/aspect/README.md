@@ -24,7 +24,5 @@ PROCS['aspect'] = proc do
   aspect(1,2,2)
   box()
 end
-
-
 ```
 ![image of aspect.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/aspect/aspect.png)

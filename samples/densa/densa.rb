@@ -14,4 +14,3 @@ PROCS['densa'] = proc do
   dens3(c)
   dens3(c,"z")
 end
-

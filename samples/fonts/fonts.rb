@@ -23,4 +23,3 @@ PROCS['fonts'] = proc do
   puts([0,h-9*d], "termes font")
   load_font("")
 end
-

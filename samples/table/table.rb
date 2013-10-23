@@ -21,4 +21,3 @@ PROCS['table'] = proc do
   table(0.5, 0.95, ys,"y_1\ny_2\ny_3","#", "value 0.7")
   box()
 end
-

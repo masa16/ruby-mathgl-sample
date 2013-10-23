@@ -14,7 +14,5 @@ PROCS['dew'] = proc do
   light(true)
   dew(a,b)
 end
-
-
 ```
 ![image of dew.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dew/dew.png)

@@ -20,4 +20,3 @@ PROCS['aspect'] = proc do
   aspect(1,2,2)
   box()
 end
-

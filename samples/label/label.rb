@@ -9,4 +9,3 @@ PROCS['label'] = proc do
   plot(ys," *")
   label(ys,"y=%y")
 end
-

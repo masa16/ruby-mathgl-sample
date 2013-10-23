@@ -10,4 +10,3 @@ PROCS['dew'] = proc do
   light(true)
   dew(a,b)
 end
-

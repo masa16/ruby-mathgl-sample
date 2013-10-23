@@ -22,7 +22,5 @@ PROCS['triangulation'] = proc do
   data_grid(g,x,y,z)
   mesh(g,"m")
 end
-
-
 ```
 ![image of triangulation.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/triangulation/triangulation.png)

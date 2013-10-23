@@ -32,4 +32,3 @@ PROCS['cont'] = proc do
   box()
   cont(a,"t")
 end
-

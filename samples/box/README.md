@@ -20,7 +20,5 @@ PROCS['box'] = proc do
   rotate(50,60)
   box("@cm")
 end
-
-
 ```
 ![image of box.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/box/box.png)

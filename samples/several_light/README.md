@@ -16,7 +16,5 @@ PROCS['several_light'] = proc do
   box()
   surf(a,"h")
 end
-
-
 ```
 ![image of several_light.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/several_light/several_light.png)

@@ -41,7 +41,5 @@ PROCS['vect'] = proc do
   box()
   vect(ex,ey,ez)
 end
-
-
 ```
 ![image of vect.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/vect/vect.png)

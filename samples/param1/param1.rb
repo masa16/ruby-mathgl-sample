@@ -56,4 +56,3 @@ PROCS['param1'] = proc do
   box()
   label(x,y,z,"%z")
 end
-

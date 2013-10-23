@@ -61,7 +61,5 @@ PROCS['paramv'] = proc do
   box()
   pipe(x,y,z,ex,ey,ez)
 end
-
-
 ```
 ![image of paramv.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/paramv/paramv.png)

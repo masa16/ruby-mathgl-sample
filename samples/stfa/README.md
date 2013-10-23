@@ -19,7 +19,5 @@ PROCS['stfa'] = proc do
   label('x', "\\i t")
   label('y', "\\omega", 0)
 end
-
-
 ```
 ![image of stfa.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/stfa/stfa.png)

@@ -33,4 +33,3 @@ PROCS['loglog'] = proc do
   label('x',"x",1)
   label('y', "y = x",0)
 end
-

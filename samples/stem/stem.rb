@@ -27,4 +27,3 @@ PROCS['stem'] = proc do
   box()
   stem(y,"o!rgb")
 end
-

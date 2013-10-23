@@ -40,4 +40,3 @@ PROCS['bars'] = proc do
   box()
   bars(ys,"f")
 end
-

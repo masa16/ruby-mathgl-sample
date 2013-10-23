@@ -39,4 +39,3 @@ PROCS['tape'] = proc do
   tape(xc,yc,z,"zg")
   tape(xc,yc,z,"zg#")
 end
-

@@ -16,4 +16,3 @@ PROCS['box'] = proc do
   rotate(50,60)
   box("@cm")
 end
-

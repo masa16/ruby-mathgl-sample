@@ -69,7 +69,5 @@ PROCS['ternary'] = proc do
   label('y',"C",1)
   label('z',"Z",1)
 end
-
-
 ```
 ![image of ternary.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/ternary/ternary.png)

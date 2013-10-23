@@ -44,4 +44,3 @@ PROCS['inplot'] = proc do
   title("MultiPlot")
   box()
 end
-

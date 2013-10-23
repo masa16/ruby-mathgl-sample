@@ -15,4 +15,3 @@ PROCS['stfa'] = proc do
   label('x', "\\i t")
   label('y', "\\omega", 0)
 end
-

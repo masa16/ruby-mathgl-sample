@@ -9,4 +9,3 @@ PROCS['mark'] = proc do
   box()
   mark(y,y1,"s")
 end
-

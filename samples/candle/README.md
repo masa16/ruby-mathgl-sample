@@ -17,7 +17,5 @@ PROCS['candle'] = proc do
   box()
   candle(y,y1,y2)
 end
-
-
 ```
 ![image of candle.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/candle/candle.png)

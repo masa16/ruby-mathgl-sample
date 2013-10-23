@@ -42,4 +42,3 @@ PROCS['combined'] = proc do
   cont_f3(v,c,"z",c.nz-1)
   surf3(-0.5,c)
 end
-

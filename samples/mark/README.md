@@ -13,7 +13,5 @@ PROCS['mark'] = proc do
   box()
   mark(y,y1,"s")
 end
-
-
 ```
 ![image of mark.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/mark/mark.png)

@@ -40,7 +40,5 @@ PROCS['contv'] = proc do
   cont_f(a)
   cont(a,"k")
 end
-
-
 ```
 ![image of contv.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contv/contv.png)

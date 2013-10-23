@@ -61,4 +61,3 @@ PROCS['molecule'] = proc do
   end_group()
   double_sided( true )
 end
-

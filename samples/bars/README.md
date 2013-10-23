@@ -44,7 +44,5 @@ PROCS['bars'] = proc do
   box()
   bars(ys,"f")
 end
-
-
 ```
 ![image of bars.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/bars/bars.png)

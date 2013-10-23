@@ -43,7 +43,5 @@ PROCS['colorbar'] = proc do
   colorbar(">")
   puts([1.35,1.2],"Log scale")
 end
-
-
 ```
 ![image of colorbar.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/colorbar/colorbar.png)

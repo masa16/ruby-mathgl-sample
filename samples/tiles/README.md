@@ -13,7 +13,5 @@ PROCS['tiles'] = proc do
   box()
   tile_s(a,b)
 end
-
-
 ```
 ![image of tiles.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tiles/tiles.png)

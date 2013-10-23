@@ -52,4 +52,3 @@ PROCS['dat_extra'] = proc do
   plot(x1,v1,"r-")
   label(x0,v0,"%n")
 end
-

@@ -8,4 +8,3 @@ PROCS['belt'] = proc do
   box()
   belt(a)
 end
-

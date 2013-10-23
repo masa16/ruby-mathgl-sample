@@ -37,7 +37,5 @@ PROCS['loglog'] = proc do
   label('x',"x",1)
   label('y', "y = x",0)
 end
-
-
 ```
 ![image of loglog.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/loglog/loglog.png)

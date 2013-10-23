@@ -14,7 +14,5 @@ PROCS['venn'] = proc do
   alpha(true)
   error(x,y,e,e,"!rgb@#o")
 end
-
-
 ```
 ![image of venn.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/venn/venn.png)

@@ -13,7 +13,5 @@ PROCS['grad'] = proc do
   grad(a)
   dens(a,"{u8}w{q8}")
 end
-
-
 ```
 ![image of grad.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/grad/grad.png)

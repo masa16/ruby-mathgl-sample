@@ -27,4 +27,3 @@ PROCS['tens'] = proc do
   xc.modify("cos(pi*2*x-pi)")
   tens(xc,yc,z,z,"s")
 end
-

@@ -48,7 +48,5 @@ PROCS['inplot'] = proc do
   title("MultiPlot")
   box()
 end
-
-
 ```
 ![image of inplot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/inplot/inplot.png)

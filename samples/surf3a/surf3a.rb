@@ -11,4 +11,3 @@ PROCS['surf3a'] = proc do
   box()
   surf_3a(c,d)
 end
-

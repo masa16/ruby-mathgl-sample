@@ -10,4 +10,3 @@ PROCS['venn'] = proc do
   alpha(true)
   error(x,y,e,e,"!rgb@#o")
 end
-

@@ -36,7 +36,5 @@ PROCS['cont'] = proc do
   box()
   cont(a,"t")
 end
-
-
 ```
 ![image of cont.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cont/cont.png)

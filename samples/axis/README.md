@@ -57,7 +57,5 @@ PROCS['axis'] = proc do
   set_ranges(1,0,4,0)
   fplot("4*x^2")
 end
-
-
 ```
 ![image of axis.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/axis/axis.png)

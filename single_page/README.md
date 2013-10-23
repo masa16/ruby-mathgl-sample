@@ -29,8 +29,6 @@ PROCS['alpha'] = proc do
   light(false)
   surf(a)
 end
-
-
 ```
 ![image of alpha.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/alpha/alpha.png)
 
@@ -72,8 +70,6 @@ PROCS['area'] = proc do
   yc.modify("-sin(pi*(2*x-1))")
   area(xc,yc,z,"b#")
 end
-
-
 ```
 ![image of area.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/area/area.png)
 
@@ -102,8 +98,6 @@ PROCS['aspect'] = proc do
   aspect(1,2,2)
   box()
 end
-
-
 ```
 ![image of aspect.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/aspect/aspect.png)
 
@@ -141,8 +135,6 @@ PROCS['axial'] = proc do
   box()
   axial(a,"#")
 end
-
-
 ```
 ![image of axial.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/axial/axial.png)
 
@@ -204,8 +196,6 @@ PROCS['axis'] = proc do
   set_ranges(1,0,4,0)
   fplot("4*x^2")
 end
-
-
 ```
 ![image of axis.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/axis/axis.png)
 
@@ -239,8 +229,6 @@ PROCS['barh'] = proc do
   box()
   barh(ys,"f")
 end
-
-
 ```
 ![image of barh.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/barh/barh.png)
 
@@ -289,8 +277,6 @@ PROCS['bars'] = proc do
   box()
   bars(ys,"f")
 end
-
-
 ```
 ![image of bars.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/bars/bars.png)
 
@@ -307,8 +293,6 @@ PROCS['belt'] = proc do
   box()
   belt(a)
 end
-
-
 ```
 ![image of belt.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/belt/belt.png)
 
@@ -333,8 +317,6 @@ PROCS['box'] = proc do
   rotate(50,60)
   box("@cm")
 end
-
-
 ```
 ![image of box.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/box/box.png)
 
@@ -351,8 +333,6 @@ PROCS['boxplot'] = proc do
   box()
   box_plot(a)
 end
-
-
 ```
 ![image of boxplot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/boxplot/boxplot.png)
 
@@ -390,8 +370,6 @@ PROCS['boxs'] = proc do
   box()
   tile(a)
 end
-
-
 ```
 ![image of boxs.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/boxs/boxs.png)
 
@@ -413,8 +391,6 @@ PROCS['candle'] = proc do
   box()
   candle(y,y1,y2)
 end
-
-
 ```
 ![image of candle.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/candle/candle.png)
 
@@ -455,8 +431,6 @@ PROCS['chart'] = proc do
   box()
   chart(ch,"bgr cmy#")
 end
-
-
 ```
 ![image of chart.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/chart/chart.png)
 
@@ -493,8 +467,6 @@ PROCS['cloud'] = proc do
   box()
   cloud(c,"wyrRk","meshnum 10")
 end
-
-
 ```
 ![image of cloud.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cloud/cloud.png)
 
@@ -542,8 +514,6 @@ PROCS['colorbar'] = proc do
   colorbar(">")
   puts([1.35,1.2],"Log scale")
 end
-
-
 ```
 ![image of colorbar.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/colorbar/colorbar.png)
 
@@ -594,8 +564,6 @@ PROCS['combined'] = proc do
   cont_f3(v,c,"z",c.nz-1)
   surf3(-0.5,c)
 end
-
-
 ```
 ![image of combined.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/combined/combined.png)
 
@@ -634,8 +602,6 @@ PROCS['cones'] = proc do
   box()
   cones(ys,"a")
 end
-
-
 ```
 ![image of cones.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cones/cones.png)
 
@@ -676,8 +642,6 @@ PROCS['cont'] = proc do
   box()
   cont(a,"t")
 end
-
-
 ```
 ![image of cont.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cont/cont.png)
 
@@ -696,8 +660,6 @@ PROCS['cont_xyz'] = proc do
   cont_y(c.sum("y"),"",1)
   cont_z(c.sum("z"),"",-1)
 end
-
-
 ```
 ![image of cont_xyz.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cont_xyz/cont_xyz.png)
 
@@ -716,8 +678,6 @@ PROCS['conta'] = proc do
   cont3(c)
   cont3(c,"z")
 end
-
-
 ```
 ![image of conta.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/conta/conta.png)
 
@@ -761,8 +721,6 @@ PROCS['contd'] = proc do
   box()
   cont_d(a1)
 end
-
-
 ```
 ![image of contd.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contd/contd.png)
 
@@ -806,8 +764,6 @@ PROCS['contf'] = proc do
   box()
   cont_f(a1)
 end
-
-
 ```
 ![image of contf.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contf/contf.png)
 
@@ -826,8 +782,6 @@ PROCS['contf_xyz'] = proc do
   cont_fy(c.sum("y"),"",1)
   cont_fz(c.sum("z"),"",-1)
 end
-
-
 ```
 ![image of contf_xyz.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contf_xyz/contf_xyz.png)
 
@@ -850,8 +804,6 @@ PROCS['contfa'] = proc do
   cont3(c,"k")
   cont3(c,"kz")
 end
-
-
 ```
 ![image of contfa.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contfa/contfa.png)
 
@@ -896,8 +848,6 @@ PROCS['contv'] = proc do
   cont_f(a)
   cont(a,"k")
 end
-
-
 ```
 ![image of contv.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contv/contv.png)
 
@@ -935,8 +885,6 @@ PROCS['curvcoor'] = proc do
   grid()
   set_func("","","")
 end
-
-
 ```
 ![image of curvcoor.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/curvcoor/curvcoor.png)
 
@@ -977,8 +925,6 @@ PROCS['cut'] = proc do
   surf3(c)
   cut_off("")
 end
-
-
 ```
 ![image of cut.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cut/cut.png)
 
@@ -1013,8 +959,6 @@ PROCS['dat_diff'] = proc do
   surf(a)
   box()
 end
-
-
 ```
 ![image of dat_diff.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dat_diff/dat_diff.png)
 
@@ -1075,8 +1019,6 @@ PROCS['dat_extra'] = proc do
   plot(x1,v1,"r-")
   label(x0,v0,"%n")
 end
-
-
 ```
 ![image of dat_extra.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dat_extra/dat_extra.png)
 
@@ -1192,8 +1134,6 @@ PROCS['data1'] = proc do
   box()
   surf3(b)
 end
-
-
 ```
 ![image of data1.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/data1/data1.png)
 
@@ -1327,8 +1267,6 @@ PROCS['data2'] = proc do
   surf3(0.5,b)
   surf3(-0.5,b)
 end
-
-
 ```
 ![image of data2.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/data2/data2.png)
 
@@ -1364,8 +1302,6 @@ PROCS['dens'] = proc do
   box()
   dens(a1)
 end
-
-
 ```
 ![image of dens.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dens/dens.png)
 
@@ -1384,8 +1320,6 @@ PROCS['dens_xyz'] = proc do
   dens_y(c.sum("y"),"",1)
   dens_z(c.sum("z"),"",-1)
 end
-
-
 ```
 ![image of dens_xyz.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dens_xyz/dens_xyz.png)
 
@@ -1408,8 +1342,6 @@ PROCS['densa'] = proc do
   dens3(c)
   dens3(c,"z")
 end
-
-
 ```
 ![image of densa.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/densa/densa.png)
 
@@ -1428,8 +1360,6 @@ PROCS['dew'] = proc do
   light(true)
   dew(a,b)
 end
-
-
 ```
 ![image of dew.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dew/dew.png)
 
@@ -1455,8 +1385,6 @@ PROCS['dots'] = proc do
   box()
   dots(x,y,z)
 end
-
-
 ```
 ![image of dots.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dots/dots.png)
 
@@ -1506,8 +1434,6 @@ PROCS['error'] = proc do
   end
   axis()
 end
-
-
 ```
 ![image of error.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/error/error.png)
 
@@ -1524,8 +1450,6 @@ PROCS['fall'] = proc do
   box()
   fall(a)
 end
-
-
 ```
 ![image of fall.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fall/fall.png)
 
@@ -1775,8 +1699,6 @@ PROCS['fexport'] = proc do
   write_obj("fexport.obj")
   write_prc("fexport.prc")
 end
-
-
 ```
 ![image of fexport.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fexport/fexport.png)
 
@@ -1805,8 +1727,6 @@ PROCS['fit'] = proc do
   puts_fit([0, -1.8], "y = ", "r")
   puts([0, 2.2], "initial: y = 0.3+sin(2\\pi x)", "b")
 end
-
-
 ```
 ![image of fit.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fit/fit.png)
 
@@ -1844,8 +1764,6 @@ PROCS['flow'] = proc do
   box()
   flow(ex,ey,ez)
 end
-
-
 ```
 ![image of flow.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/flow/flow.png)
 
@@ -1864,8 +1782,6 @@ PROCS['fog'] = proc do
   box()
   surf(a)
 end
-
-
 ```
 ![image of fog.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fog/fog.png)
 
@@ -1897,8 +1813,6 @@ PROCS['fonts'] = proc do
   puts([0,h-9*d], "termes font")
   load_font("")
 end
-
-
 ```
 ![image of fonts.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fonts/fonts.png)
 
@@ -1916,8 +1830,6 @@ PROCS['grad'] = proc do
   grad(a)
   dens(a,"{u8}w{q8}")
 end
-
-
 ```
 ![image of grad.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/grad/grad.png)
 
@@ -1950,8 +1862,6 @@ PROCS['hist'] = proc do
   sub_plot(3,3,2)
   puts([0.5,0.5],"Hist and\nMultiPlot\nsample","a",-3)
 end
-
-
 ```
 ![image of hist.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/hist/hist.png)
 
@@ -2004,8 +1914,6 @@ PROCS['inplot'] = proc do
   title("MultiPlot")
   box()
 end
-
-
 ```
 ![image of inplot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/inplot/inplot.png)
 
@@ -2023,8 +1931,6 @@ PROCS['label'] = proc do
   plot(ys," *")
   label(ys,"y=%y")
 end
-
-
 ```
 ![image of label.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/label/label.png)
 
@@ -2062,8 +1968,6 @@ PROCS['legend'] = proc do
   legend(1,"#-")
   puts([0.75,0.25],"Horizontal legend","a")
 end
-
-
 ```
 ![image of legend.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/legend/legend.png)
 
@@ -2105,8 +2009,6 @@ PROCS['loglog'] = proc do
   label('x',"x",1)
   label('y', "y = x",0)
 end
-
-
 ```
 ![image of loglog.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/loglog/loglog.png)
 
@@ -2131,8 +2033,6 @@ PROCS['map'] = proc do
   box()
   map(a, b, "brgk")
 end
-
-
 ```
 ![image of map.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/map/map.png)
 
@@ -2150,8 +2050,6 @@ PROCS['mark'] = proc do
   box()
   mark(y,y1,"s")
 end
-
-
 ```
 ![image of mark.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/mark/mark.png)
 
@@ -2168,8 +2066,6 @@ PROCS['mesh'] = proc do
   box()
   mesh(a)
 end
-
-
 ```
 ![image of mesh.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/mesh/mesh.png)
 
@@ -2212,8 +2108,6 @@ PROCS['mirror'] = proc do
   axis()
   legend(2,"")
 end
-
-
 ```
 ![image of mirror.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/mirror/mirror.png)
 
@@ -2283,8 +2177,6 @@ PROCS['molecule'] = proc do
   end_group()
   double_sided( true )
 end
-
-
 ```
 ![image of molecule.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/molecule/molecule.png)
 
@@ -2349,8 +2241,6 @@ PROCS['param1'] = proc do
   box()
   label(x,y,z,"%z")
 end
-
-
 ```
 ![image of param1.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/param1/param1.png)
 
@@ -2433,8 +2323,6 @@ PROCS['param2'] = proc do
   box()
   boxs(x,y,z,"@","meshnum 10;light on")
 end
-
-
 ```
 ![image of param2.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/param2/param2.png)
 
@@ -2511,8 +2399,6 @@ PROCS['param3'] = proc do
   cont_fy(c,"",0)
   cont_fz(c,"",0)
 end
-
-
 ```
 ![image of param3.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/param3/param3.png)
 
@@ -2578,8 +2464,6 @@ PROCS['paramv'] = proc do
   box()
   pipe(x,y,z,ex,ey,ez)
 end
-
-
 ```
 ![image of paramv.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/paramv/paramv.png)
 
@@ -2605,8 +2489,6 @@ PROCS['pde'] = proc do
   fplot("-x", "k|")
   puts([0, 0.95], "Equation: ik_0\\partial_zu + \\Delta u + x\\cdot u + i \\frac{x+z}{2}\\cdot u = 0\nabsorption: (x+z)/2 for x+z>0")
 end
-
-
 ```
 ![image of pde.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/pde/pde.png)
 
@@ -2645,8 +2527,6 @@ PROCS['pipe'] = proc do
   box()
   pipe(ex,ey,ez,"",0.1)
 end
-
-
 ```
 ![image of pipe.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/pipe/pipe.png)
 
@@ -2686,8 +2566,6 @@ PROCS['plot'] = proc do
   xc.modify("cos(pi*2*x-pi)")
   plot(xc,yc,z,"rs")
 end
-
-
 ```
 ![image of plot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/plot/plot.png)
 
@@ -2747,8 +2625,6 @@ PROCS['primitives'] = proc do
   puts([0.9,-1.1],"asp=1.5")
   drop([0.9,-0.7],[0,1],0.5,"b",0,1.5)
 end
-
-
 ```
 ![image of primitives.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/primitives/primitives.png)
 
@@ -2784,8 +2660,6 @@ PROCS['projection'] = proc do
   label('y',"Y",1)
   label('z',"Z",1)
 end
-
-
 ```
 ![image of projection.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/projection/projection.png)
 
@@ -2821,8 +2695,6 @@ PROCS['projection5'] = proc do
   label('y',"Y",1)
   label('z',"Z",1)
 end
-
-
 ```
 ![image of projection5.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/projection5/projection5.png)
 
@@ -2854,8 +2726,6 @@ PROCS['qo2d'] = proc do
   puts([0, 0.85], "absorption: (x+y)/2 for x+y>0")
   puts([0.7, -0.05], "central ray")
 end
-
-
 ```
 ![image of qo2d.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/qo2d/qo2d.png)
 
@@ -2871,8 +2741,6 @@ PROCS['radar'] = proc do
   end
   radar(yr,"#")
 end
-
-
 ```
 ![image of radar.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/radar/radar.png)
 
@@ -2915,8 +2783,6 @@ PROCS['region'] = proc do
   plot(y1,"k2")
   plot(y2,"k2")
 end
-
-
 ```
 ![image of region.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/region/region.png)
 
@@ -2987,8 +2853,6 @@ PROCS['schemes'] = proc do
   dens(a,"b{g,0.3}r")
   puts(0.57, 0.02, "'b\\{g,0.3\\}r'", "A")
 end
-
-
 ```
 ![image of schemes.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/schemes/schemes.png)
 
@@ -3009,8 +2873,6 @@ PROCS['several_light'] = proc do
   box()
   surf(a,"h")
 end
-
-
 ```
 ![image of several_light.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/several_light/several_light.png)
 
@@ -3073,8 +2935,6 @@ PROCS['solve'] = proc do
   plot(v1,u2,"r2v")
   line([0.5,0.7],[0.5,0.85],"rA")
 end
-
-
 ```
 ![image of solve.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/solve/solve.png)
 
@@ -3110,8 +2970,6 @@ PROCS['stem'] = proc do
   box()
   stem(y,"o!rgb")
 end
-
-
 ```
 ![image of stem.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/stem/stem.png)
 
@@ -3147,8 +3005,6 @@ PROCS['step'] = proc do
   box()
   step(y,"s!rgb")
 end
-
-
 ```
 ![image of step.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/step/step.png)
 
@@ -3168,8 +3024,6 @@ PROCS['stereo'] = proc do
   box()
   surf(a)
 end
-
-
 ```
 ![image of stereo.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/stereo/stereo.png)
 
@@ -3193,8 +3047,6 @@ PROCS['stfa'] = proc do
   label('x', "\\i t")
   label('y', "\\omega", 0)
 end
-
-
 ```
 ![image of stfa.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/stfa/stfa.png)
 
@@ -3411,8 +3263,6 @@ PROCS['style'] = proc do
     puts([1.05,0.2*i-1],txt,":")
   end
 end
-
-
 ```
 ![image of style.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/style/style.png)
 
@@ -3455,8 +3305,6 @@ PROCS['surf'] = proc do
   box()
   surf(x,y,z,"BbwrR")
 end
-
-
 ```
 ![image of surf.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surf/surf.png)
 
@@ -3489,8 +3337,6 @@ PROCS['surf3'] = proc do
   box()
   surf3(c,".")
 end
-
-
 ```
 ![image of surf3.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surf3/surf3.png)
 
@@ -3510,8 +3356,6 @@ PROCS['surf3a'] = proc do
   box()
   surf_3a(c,d)
 end
-
-
 ```
 ![image of surf3a.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surf3a/surf3a.png)
 
@@ -3531,8 +3375,6 @@ PROCS['surf3c'] = proc do
   box()
   surf_3c(c,d)
 end
-
-
 ```
 ![image of surf3c.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surf3c/surf3c.png)
 
@@ -3552,8 +3394,6 @@ PROCS['surfa'] = proc do
   box()
   surf_a(a,b)
 end
-
-
 ```
 ![image of surfa.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surfa/surfa.png)
 
@@ -3572,8 +3412,6 @@ PROCS['surfc'] = proc do
   box()
   surf_c(a,b)
 end
-
-
 ```
 ![image of surfc.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surfc/surfc.png)
 
@@ -3603,8 +3441,6 @@ PROCS['table'] = proc do
   table(0.5, 0.95, ys,"y_1\ny_2\ny_3","#", "value 0.7")
   box()
 end
-
-
 ```
 ![image of table.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/table/table.png)
 
@@ -3652,8 +3488,6 @@ PROCS['tape'] = proc do
   tape(xc,yc,z,"zg")
   tape(xc,yc,z,"zg#")
 end
-
-
 ```
 ![image of tape.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tape/tape.png)
 
@@ -3689,8 +3523,6 @@ PROCS['tens'] = proc do
   xc.modify("cos(pi*2*x-pi)")
   tens(xc,yc,z,z,"s")
 end
-
-
 ```
 ![image of tens.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tens/tens.png)
 
@@ -3764,8 +3596,6 @@ PROCS['ternary'] = proc do
   label('y',"C",1)
   label('z',"Z",1)
 end
-
-
 ```
 ![image of ternary.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/ternary/ternary.png)
 
@@ -3803,8 +3633,6 @@ PROCS['text'] = proc do
   line([-1,-1],[-1,1],"rA")
   puts([-1,0],[-1,1],"Vertical")
 end
-
-
 ```
 ![image of text.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/text/text.png)
 
@@ -3822,8 +3650,6 @@ PROCS['textmark'] = proc do
   box()
   text_mark(y,y1,"\\gamma","r")
 end
-
-
 ```
 ![image of textmark.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/textmark/textmark.png)
 
@@ -3860,8 +3686,6 @@ PROCS['ticks'] = proc do
   set_ticks_time('x',0)
   axis()
 end
-
-
 ```
 ![image of ticks.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/ticks/ticks.png)
 
@@ -3878,8 +3702,6 @@ PROCS['tile'] = proc do
   box()
   tile(a)
 end
-
-
 ```
 ![image of tile.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tile/tile.png)
 
@@ -3897,8 +3719,6 @@ PROCS['tiles'] = proc do
   box()
   tile_s(a,b)
 end
-
-
 ```
 ![image of tiles.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tiles/tiles.png)
 
@@ -3936,8 +3756,6 @@ PROCS['torus'] = proc do
   box()
   torus(y1,y2,"#")
 end
-
-
 ```
 ![image of torus.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/torus/torus.png)
 
@@ -3958,8 +3776,6 @@ PROCS['traj'] = proc do
   plot(x,y)
   traj(x,y,y1,y2)
 end
-
-
 ```
 ![image of traj.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/traj/traj.png)
 
@@ -3986,8 +3802,6 @@ PROCS['triangulation'] = proc do
   data_grid(g,x,y,z)
   mesh(g,"m")
 end
-
-
 ```
 ![image of triangulation.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/triangulation/triangulation.png)
 
@@ -4034,8 +3848,6 @@ PROCS['triplot'] = proc do
   tri_plot(tt,uu,vv,ww,"k#")
   tri_cont(tt,uu,vv,ww,"B")
 end
-
-
 ```
 ![image of triplot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/triplot/triplot.png)
 
@@ -4078,8 +3890,6 @@ PROCS['tube'] = proc do
   box()
   tube(xc,yc,z,y2,"r")
 end
-
-
 ```
 ![image of tube.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tube/tube.png)
 
@@ -4110,8 +3920,6 @@ PROCS['type0'] = proc do
   axial(a)
   box()
 end
-
-
 ```
 ![image of type0.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/type0/type0.png)
 
@@ -4142,8 +3950,6 @@ PROCS['type1'] = proc do
   axial(a)
   box()
 end
-
-
 ```
 ![image of type1.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/type1/type1.png)
 
@@ -4174,8 +3980,6 @@ PROCS['type2'] = proc do
   axial(a)
   box()
 end
-
-
 ```
 ![image of type2.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/type2/type2.png)
 
@@ -4221,8 +4025,6 @@ PROCS['vect'] = proc do
   box()
   vect(ex,ey,ez)
 end
-
-
 ```
 ![image of vect.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/vect/vect.png)
 
@@ -4261,8 +4063,6 @@ PROCS['vecta'] = proc do
   grid3(ex,"W")
   grid3(ex,"Wz")
 end
-
-
 ```
 ![image of vecta.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/vecta/vecta.png)
 
@@ -4281,7 +4081,5 @@ PROCS['venn'] = proc do
   alpha(true)
   error(x,y,e,e,"!rgb@#o")
 end
-
-
 ```
 ![image of venn.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/venn/venn.png)

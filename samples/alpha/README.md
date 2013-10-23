@@ -29,7 +29,5 @@ PROCS['alpha'] = proc do
   light(false)
   surf(a)
 end
-
-
 ```
 ![image of alpha.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/alpha/alpha.png)

@@ -20,7 +20,5 @@ PROCS['map'] = proc do
   box()
   map(a, b, "brgk")
 end
-
-
 ```
 ![image of map.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/map/map.png)

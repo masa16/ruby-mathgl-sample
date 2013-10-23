@@ -10,4 +10,3 @@ PROCS['fog'] = proc do
   box()
   surf(a)
 end
-

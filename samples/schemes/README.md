@@ -66,7 +66,5 @@ PROCS['schemes'] = proc do
   dens(a,"b{g,0.3}r")
   puts(0.57, 0.02, "'b\\{g,0.3\\}r'", "A")
 end
-
-
 ```
 ![image of schemes.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/schemes/schemes.png)

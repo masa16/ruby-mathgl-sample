@@ -33,7 +33,5 @@ PROCS['flow'] = proc do
   box()
   flow(ex,ey,ez)
 end
-
-
 ```
 ![image of flow.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/flow/flow.png)

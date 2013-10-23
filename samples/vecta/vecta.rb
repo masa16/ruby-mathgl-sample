@@ -30,4 +30,3 @@ PROCS['vecta'] = proc do
   grid3(ex,"W")
   grid3(ex,"Wz")
 end
-

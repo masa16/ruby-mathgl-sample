@@ -8,4 +8,3 @@ PROCS['boxplot'] = proc do
   box()
   box_plot(a)
 end
-

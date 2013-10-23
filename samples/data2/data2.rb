@@ -125,4 +125,3 @@ PROCS['data2'] = proc do
   surf3(0.5,b)
   surf3(-0.5,b)
 end
-

@@ -14,7 +14,5 @@ PROCS['contf_xyz'] = proc do
   cont_fy(c.sum("y"),"",1)
   cont_fz(c.sum("z"),"",-1)
 end
-
-
 ```
 ![image of contf_xyz.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contf_xyz/contf_xyz.png)

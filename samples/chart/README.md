@@ -36,7 +36,5 @@ PROCS['chart'] = proc do
   box()
   chart(ch,"bgr cmy#")
 end
-
-
 ```
 ![image of chart.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/chart/chart.png)

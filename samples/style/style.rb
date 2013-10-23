@@ -208,4 +208,3 @@ PROCS['style'] = proc do
     puts([1.05,0.2*i-1],txt,":")
   end
 end
-

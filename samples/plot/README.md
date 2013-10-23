@@ -35,7 +35,5 @@ PROCS['plot'] = proc do
   xc.modify("cos(pi*2*x-pi)")
   plot(xc,yc,z,"rs")
 end
-
-
 ```
 ![image of plot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/plot/plot.png)

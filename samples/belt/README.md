@@ -12,7 +12,5 @@ PROCS['belt'] = proc do
   box()
   belt(a)
 end
-
-
 ```
 ![image of belt.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/belt/belt.png)

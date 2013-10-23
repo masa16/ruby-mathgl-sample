@@ -25,4 +25,3 @@ PROCS['alpha'] = proc do
   light(false)
   surf(a)
 end
-

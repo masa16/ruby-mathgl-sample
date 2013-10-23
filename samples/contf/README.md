@@ -39,7 +39,5 @@ PROCS['contf'] = proc do
   box()
   cont_f(a1)
 end
-
-
 ```
 ![image of contf.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contf/contf.png)

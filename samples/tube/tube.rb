@@ -34,4 +34,3 @@ PROCS['tube'] = proc do
   box()
   tube(xc,yc,z,y2,"r")
 end
-

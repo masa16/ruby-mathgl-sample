@@ -24,4 +24,3 @@ PROCS['hist'] = proc do
   sub_plot(3,3,2)
   puts([0.5,0.5],"Hist and\nMultiPlot\nsample","a",-3)
 end
-

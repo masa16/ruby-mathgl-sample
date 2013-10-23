@@ -12,4 +12,3 @@ PROCS['several_light'] = proc do
   box()
   surf(a,"h")
 end
-

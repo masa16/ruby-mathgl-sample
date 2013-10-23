@@ -33,7 +33,5 @@ PROCS['legend'] = proc do
   legend(1,"#-")
   puts([0.75,0.25],"Horizontal legend","a")
 end
-
-
 ```
 ![image of legend.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/legend/legend.png)

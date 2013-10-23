@@ -17,4 +17,3 @@ PROCS['pde'] = proc do
   fplot("-x", "k|")
   puts([0, 0.95], "Equation: ik_0\\partial_zu + \\Delta u + x\\cdot u + i \\frac{x+z}{2}\\cdot u = 0\nabsorption: (x+z)/2 for x+z>0")
 end
-

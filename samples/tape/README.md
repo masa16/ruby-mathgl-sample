@@ -43,7 +43,5 @@ PROCS['tape'] = proc do
   tape(xc,yc,z,"zg")
   tape(xc,yc,z,"zg#")
 end
-
-
 ```
 ![image of tape.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/tape/tape.png)

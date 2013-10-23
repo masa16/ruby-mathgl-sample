@@ -11,4 +11,3 @@ PROCS['stereo'] = proc do
   box()
   surf(a)
 end
-

@@ -34,7 +34,5 @@ PROCS['pipe'] = proc do
   box()
   pipe(ex,ey,ez,"",0.1)
 end
-
-
 ```
 ![image of pipe.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/pipe/pipe.png)

@@ -31,4 +31,3 @@ PROCS['plot'] = proc do
   xc.modify("cos(pi*2*x-pi)")
   plot(xc,yc,z,"rs")
 end
-

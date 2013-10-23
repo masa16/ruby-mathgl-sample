@@ -13,7 +13,5 @@ PROCS['label'] = proc do
   plot(ys," *")
   label(ys,"y=%y")
 end
-
-
 ```
 ![image of label.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/label/label.png)

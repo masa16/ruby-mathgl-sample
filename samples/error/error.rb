@@ -41,4 +41,3 @@ PROCS['error'] = proc do
   end
   axis()
 end
-

@@ -39,4 +39,3 @@ PROCS['colorbar'] = proc do
   colorbar(">")
   puts([1.35,1.2],"Log scale")
 end
-

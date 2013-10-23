@@ -29,4 +29,3 @@ PROCS['axial'] = proc do
   box()
   axial(a,"#")
 end
-

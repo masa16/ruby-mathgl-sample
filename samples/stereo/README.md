@@ -15,7 +15,5 @@ PROCS['stereo'] = proc do
   box()
   surf(a)
 end
-
-
 ```
 ![image of stereo.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/stereo/stereo.png)

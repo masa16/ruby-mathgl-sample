@@ -27,7 +27,5 @@ PROCS['fonts'] = proc do
   puts([0,h-9*d], "termes font")
   load_font("")
 end
-
-
 ```
 ![image of fonts.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fonts/fonts.png)

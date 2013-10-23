@@ -28,4 +28,3 @@ PROCS['ticks'] = proc do
   set_ticks_time('x',0)
   axis()
 end
-

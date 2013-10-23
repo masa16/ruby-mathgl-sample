@@ -35,4 +35,3 @@ PROCS['contf'] = proc do
   box()
   cont_f(a1)
 end
-

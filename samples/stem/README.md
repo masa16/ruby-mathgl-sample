@@ -31,7 +31,5 @@ PROCS['stem'] = proc do
   box()
   stem(y,"o!rgb")
 end
-
-
 ```
 ![image of stem.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/stem/stem.png)

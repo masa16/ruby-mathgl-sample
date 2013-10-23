@@ -37,4 +37,3 @@ PROCS['vect'] = proc do
   box()
   vect(ex,ey,ez)
 end
-

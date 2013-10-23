@@ -34,7 +34,7 @@ class ConvSample
 ![image of #{name}.rb](#{path+name}.png)
 "
         FileUtils.mkdir_p(dir)
-        File.open(dir+name+'.rb','w'){|f| f.write @buf}
+        File.open(dir+name+'.rb','w'){|f| f.puts @buf}
         File.open(dir+'README.md','w'){|f|
           f.write md
         }
@@ -112,7 +112,7 @@ end
     indent_up
     parse_body(body)
     indent_down
-    print "end\n\n"
+    print "end"
     name
   end
 

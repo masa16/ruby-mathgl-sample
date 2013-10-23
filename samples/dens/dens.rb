@@ -27,4 +27,3 @@ PROCS['dens'] = proc do
   box()
   dens(a1)
 end
-

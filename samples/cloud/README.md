@@ -32,7 +32,5 @@ PROCS['cloud'] = proc do
   box()
   cloud(c,"wyrRk","meshnum 10")
 end
-
-
 ```
 ![image of cloud.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cloud/cloud.png)

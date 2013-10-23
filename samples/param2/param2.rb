@@ -74,4 +74,3 @@ PROCS['param2'] = proc do
   box()
   boxs(x,y,z,"@","meshnum 10;light on")
 end
-

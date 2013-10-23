@@ -7,4 +7,3 @@ PROCS['radar'] = proc do
   end
   radar(yr,"#")
 end
-

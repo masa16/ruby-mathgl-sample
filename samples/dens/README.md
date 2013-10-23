@@ -31,7 +31,5 @@ PROCS['dens'] = proc do
   box()
   dens(a1)
 end
-
-
 ```
 ![image of dens.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dens/dens.png)

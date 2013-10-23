@@ -9,4 +9,3 @@ PROCS['textmark'] = proc do
   box()
   text_mark(y,y1,"\\gamma","r")
 end
-

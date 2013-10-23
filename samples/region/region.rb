@@ -34,4 +34,3 @@ PROCS['region'] = proc do
   plot(y1,"k2")
   plot(y2,"k2")
 end
-

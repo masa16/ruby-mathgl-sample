@@ -29,7 +29,5 @@ PROCS['barh'] = proc do
   box()
   barh(ys,"f")
 end
-
-
 ```
 ![image of barh.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/barh/barh.png)

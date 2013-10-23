@@ -29,4 +29,3 @@ PROCS['curvcoor'] = proc do
   grid()
   set_func("","","")
 end
-

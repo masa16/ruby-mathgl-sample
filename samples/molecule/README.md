@@ -65,7 +65,5 @@ PROCS['molecule'] = proc do
   end_group()
   double_sided( true )
 end
-
-
 ```
 ![image of molecule.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/molecule/molecule.png)

@@ -107,4 +107,3 @@ PROCS['data1'] = proc do
   box()
   surf3(b)
 end
-

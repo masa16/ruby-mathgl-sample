@@ -14,7 +14,5 @@ PROCS['conta'] = proc do
   cont3(c)
   cont3(c,"z")
 end
-
-
 ```
 ![image of conta.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/conta/conta.png)

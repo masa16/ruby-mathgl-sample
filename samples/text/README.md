@@ -33,7 +33,5 @@ PROCS['text'] = proc do
   line([-1,-1],[-1,1],"rA")
   puts([-1,0],[-1,1],"Vertical")
 end
-
-
 ```
 ![image of text.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/text/text.png)

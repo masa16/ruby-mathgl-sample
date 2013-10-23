@@ -31,7 +31,5 @@ PROCS['step'] = proc do
   box()
   step(y,"s!rgb")
 end
-
-
 ```
 ![image of step.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/step/step.png)

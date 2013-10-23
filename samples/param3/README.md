@@ -72,7 +72,5 @@ PROCS['param3'] = proc do
   cont_fy(c,"",0)
   cont_fz(c,"",0)
 end
-
-
 ```
 ![image of param3.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/param3/param3.png)

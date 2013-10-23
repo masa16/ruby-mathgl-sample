@@ -38,7 +38,5 @@ PROCS['surf'] = proc do
   box()
   surf(x,y,z,"BbwrR")
 end
-
-
 ```
 ![image of surf.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/surf/surf.png)

@@ -36,7 +36,5 @@ PROCS['cut'] = proc do
   surf3(c)
   cut_off("")
 end
-
-
 ```
 ![image of cut.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/cut/cut.png)

@@ -38,7 +38,5 @@ PROCS['mirror'] = proc do
   axis()
   legend(2,"")
 end
-
-
 ```
 ![image of mirror.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/mirror/mirror.png)

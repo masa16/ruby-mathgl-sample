@@ -45,7 +45,5 @@ PROCS['error'] = proc do
   end
   axis()
 end
-
-
 ```
 ![image of error.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/error/error.png)

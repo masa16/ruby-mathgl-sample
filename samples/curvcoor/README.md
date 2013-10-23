@@ -33,7 +33,5 @@ PROCS['curvcoor'] = proc do
   grid()
   set_func("","","")
 end
-
-
 ```
 ![image of curvcoor.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/curvcoor/curvcoor.png)

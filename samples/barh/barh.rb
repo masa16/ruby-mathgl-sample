@@ -25,4 +25,3 @@ PROCS['barh'] = proc do
   box()
   barh(ys,"f")
 end
-

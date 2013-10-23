@@ -18,7 +18,5 @@ PROCS['contfa'] = proc do
   cont3(c,"k")
   cont3(c,"kz")
 end
-
-
 ```
 ![image of contfa.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/contfa/contfa.png)

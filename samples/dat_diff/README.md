@@ -30,7 +30,5 @@ PROCS['dat_diff'] = proc do
   surf(a)
   box()
 end
-
-
 ```
 ![image of dat_diff.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/dat_diff/dat_diff.png)

@@ -33,4 +33,3 @@ PROCS['area'] = proc do
   yc.modify("-sin(pi*(2*x-1))")
   area(xc,yc,z,"b#")
 end
-

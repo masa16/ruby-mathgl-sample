@@ -38,4 +38,3 @@ PROCS['triplot'] = proc do
   tri_plot(tt,uu,vv,ww,"k#")
   tri_cont(tt,uu,vv,ww,"B")
 end
-

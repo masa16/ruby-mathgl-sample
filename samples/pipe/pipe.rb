@@ -30,4 +30,3 @@ PROCS['pipe'] = proc do
   box()
   pipe(ex,ey,ez,"",0.1)
 end
-

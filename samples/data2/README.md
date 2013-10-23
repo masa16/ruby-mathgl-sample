@@ -129,7 +129,5 @@ PROCS['data2'] = proc do
   surf3(0.5,b)
   surf3(-0.5,b)
 end
-
-
 ```
 ![image of data2.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/data2/data2.png)

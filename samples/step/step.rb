@@ -27,4 +27,3 @@ PROCS['step'] = proc do
   box()
   step(y,"s!rgb")
 end
-

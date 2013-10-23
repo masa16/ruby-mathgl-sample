@@ -54,4 +54,3 @@ PROCS['solve'] = proc do
   plot(v1,u2,"r2v")
   line([0.5,0.7],[0.5,0.85],"rA")
 end
-

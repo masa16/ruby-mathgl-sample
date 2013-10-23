@@ -14,7 +14,5 @@ PROCS['fog'] = proc do
   box()
   surf(a)
 end
-
-
 ```
 ![image of fog.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fog/fog.png)

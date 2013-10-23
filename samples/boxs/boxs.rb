@@ -29,4 +29,3 @@ PROCS['boxs'] = proc do
   box()
   tile(a)
 end
-

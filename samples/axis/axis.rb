@@ -53,4 +53,3 @@ PROCS['axis'] = proc do
   set_ranges(1,0,4,0)
   fplot("4*x^2")
 end
-

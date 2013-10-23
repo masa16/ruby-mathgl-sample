@@ -17,4 +17,3 @@ PROCS['dots'] = proc do
   box()
   dots(x,y,z)
 end
-

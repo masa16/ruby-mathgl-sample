@@ -46,7 +46,5 @@ PROCS['combined'] = proc do
   cont_f3(v,c,"z",c.nz-1)
   surf3(-0.5,c)
 end
-
-
 ```
 ![image of combined.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/combined/combined.png)

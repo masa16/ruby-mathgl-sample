@@ -29,4 +29,3 @@ PROCS['flow'] = proc do
   box()
   flow(ex,ey,ez)
 end
-

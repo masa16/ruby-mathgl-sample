@@ -12,7 +12,5 @@ PROCS['fall'] = proc do
   box()
   fall(a)
 end
-
-
 ```
 ![image of fall.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/fall/fall.png)

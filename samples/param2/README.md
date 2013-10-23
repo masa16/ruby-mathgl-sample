@@ -78,7 +78,5 @@ PROCS['param2'] = proc do
   box()
   boxs(x,y,z,"@","meshnum 10;light on")
 end
-
-
 ```
 ![image of param2.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/param2/param2.png)

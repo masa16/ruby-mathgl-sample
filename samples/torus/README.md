@@ -33,7 +33,5 @@ PROCS['torus'] = proc do
   box()
   torus(y1,y2,"#")
 end
-
-
 ```
 ![image of torus.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/torus/torus.png)

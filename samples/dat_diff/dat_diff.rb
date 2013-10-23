@@ -26,4 +26,3 @@ PROCS['dat_diff'] = proc do
   surf(a)
   box()
 end
-

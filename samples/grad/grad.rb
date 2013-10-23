@@ -9,4 +9,3 @@ PROCS['grad'] = proc do
   grad(a)
   dens(a,"{u8}w{q8}")
 end
-

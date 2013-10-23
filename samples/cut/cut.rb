@@ -32,4 +32,3 @@ PROCS['cut'] = proc do
   surf3(c)
   cut_off("")
 end
-

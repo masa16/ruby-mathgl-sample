@@ -12,7 +12,5 @@ PROCS['boxplot'] = proc do
   box()
   box_plot(a)
 end
-
-
 ```
 ![image of boxplot.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/boxplot/boxplot.png)

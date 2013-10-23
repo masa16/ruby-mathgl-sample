@@ -11,7 +11,5 @@ PROCS['radar'] = proc do
   end
   radar(yr,"#")
 end
-
-
 ```
 ![image of radar.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/radar/radar.png)

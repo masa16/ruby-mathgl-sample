@@ -34,4 +34,3 @@ PROCS['surf'] = proc do
   box()
   surf(x,y,z,"BbwrR")
 end
-

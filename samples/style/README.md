@@ -212,7 +212,5 @@ PROCS['style'] = proc do
     puts([1.05,0.2*i-1],txt,":")
   end
 end
-
-
 ```
 ![image of style.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/style/style.png)

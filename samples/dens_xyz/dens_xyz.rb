@@ -10,4 +10,3 @@ PROCS['dens_xyz'] = proc do
   dens_y(c.sum("y"),"",1)
   dens_z(c.sum("z"),"",-1)
 end
-

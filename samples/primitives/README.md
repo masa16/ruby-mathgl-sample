@@ -55,7 +55,5 @@ PROCS['primitives'] = proc do
   puts([0.9,-1.1],"asp=1.5")
   drop([0.9,-0.7],[0,1],0.5,"b",0,1.5)
 end
-
-
 ```
 ![image of primitives.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/primitives/primitives.png)

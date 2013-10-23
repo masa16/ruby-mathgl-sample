@@ -31,7 +31,5 @@ PROCS['projection5'] = proc do
   label('y',"Y",1)
   label('z',"Z",1)
 end
-
-
 ```
 ![image of projection5.rb](https://raw.github.com/masa16/ruby-mathgl-sample/master/samples/projection5/projection5.png)

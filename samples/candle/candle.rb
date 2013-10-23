@@ -13,4 +13,3 @@ PROCS['candle'] = proc do
   box()
   candle(y,y1,y2)
 end
-

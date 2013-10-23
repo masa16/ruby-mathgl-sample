@@ -29,4 +29,3 @@ PROCS['torus'] = proc do
   box()
   torus(y1,y2,"#")
 end
-
